@@ -1,2 +1,2 @@
 # Thetas-Custom-Records
-for any ThetaHalo/EpsTheta Related Resource Packs
+A Place to Download the Minecraft 1.17 Resource Pack & The List of the Songs w/ their record names.
